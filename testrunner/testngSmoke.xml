@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Pravaga Smoke test Suite">
+  <test thread-count="5" name="Smoke Test">
+    <classes>
+      <class name="testcases.b_MyFirstTestFW"/>
+      <!--class name="testcases.b_MySecondTestFW"/-->
+      <!--class name="base.baseTests"/-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
