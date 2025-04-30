@@ -1,4 +1,7 @@
 hai
 hellow hellow
 good morning!!!!!!
+<<<<<<< HEAD
 goodmorning
+=======
+>>>>>>> a803b2713a5e15967c38698651fa7bd02c762a98
