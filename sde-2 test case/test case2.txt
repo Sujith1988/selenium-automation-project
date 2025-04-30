@@ -2,5 +2,5 @@ hai
 hellow hellow
 good morning!!!!!!
 
-addding conflict to the main branch while merging feature -2
+addding conflict to the main branch while merging feature-2
 
