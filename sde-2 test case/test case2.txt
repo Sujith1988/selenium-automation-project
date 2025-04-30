@@ -1,9 +1,4 @@
 hai
 hellow hellow
 good morning!!!!!!
-<<<<<<< HEAD
-=======
-
-addding conflict to the main branch while merging feature-2
-
->>>>>>> feature-2
+good to go
